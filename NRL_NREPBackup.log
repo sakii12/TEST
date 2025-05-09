@@ -1,0 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+****** RESULTS OF SITE DATABASE AND SCHEMA BACKUP ******
+
+ÿþMsg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1184 pages for database 'NRL_NREP_SDB'file 'NRL_NREP_SDB' on file 1.Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1 pages for database 'NRL_NREP_SDB'file 'NRL_NREP_SDB_log' on file 1.Msg 3014Level 0State 1Server SERVER02\S3D2019Line 1BACKUP DATABASE successfully processed 1185 pages in 0.052 seconds (177.912 MB/sec).
+
+Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1024 pages for database 'NRL_NREP_SDB_SCHEMA'file 'APPREPOS' on file 2.Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1 pages for database 'NRL_NREP_SDB_SCHEMA'file 'APPREPOS_log' on file 2.Msg 3014Level 0State 1Server SERVER02\S3D2019Line 1BACKUP DATABASE successfully processed 1025 pages in 0.045 seconds (177.810 MB/sec).
+              
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+******RESULTS OF CATALOG DATABASE AND SCHEMA BACKUP******
+
+ÿþMsg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 75120 pages for database 'NRL_NREP_CDB'file 'CATALOGDB' on file 1.Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1 pages for database 'NRL_NREP_CDB'file 'CATALOGDB_log' on file 1.Msg 3014Level 0State 1Server SERVER02\S3D2019Line 1BACKUP DATABASE successfully processed 75121 pages in 2.387 seconds (245.863 MB/sec).
+
+Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 21528 pages for database 'NRL_NREP_CDB_SCHEMA'file 'APPREPOS' on file 2.Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1 pages for database 'NRL_NREP_CDB_SCHEMA'file 'APPREPOS_log' on file 2.Msg 3014Level 0State 1Server SERVER02\S3D2019Line 1BACKUP DATABASE successfully processed 21529 pages in 0.703 seconds (239.244 MB/sec).
+              
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+****** RESULTS OF MODEL DATABASE BACKUP ******
+
+Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 297096 pages for database 'NRL_NREP_MDB'file 'NRL_NREP_MDB' on file 1.Msg 4035Level 0State 1Server SERVER02\S3D2019Line 1Processed 1 pages for database 'NRL_NREP_MDB'file 'NRL_NREP_MDB_log' on file 1.Msg 3014Level 0State 1Server SERVER02\S3D2019Line 1BACKUP DATABASE successfully processed 297097 pages in 9.248 seconds (250.980 MB/sec).
